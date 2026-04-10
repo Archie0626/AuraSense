@@ -11,44 +11,48 @@ It combines signal processing, feature engineering, and multiple ML algorithms i
 🔵 Support Vector Machine (SVM)
 📈 Logistic Regression
 🧠 Deep Learning Models:
-CNN (Convolutional Neural Network)
-LSTM (Long Short-Term Memory)
+        CNN (Convolutional Neural Network)
+        LSTM (Long Short-Term Memory)
 📊 Data Processing & Analysis
 📉 Signal processing using FFT & filtering
 ⚙️ Feature engineering pipeline
 📏 Data scaling and normalization
 🏷️ Label encoding
 📈 Visualization Dashboard
+
 Interactive charts using:
-Plotly
-Matplotlib
-Seaborn
-Confusion matrix visualization
-Performance metrics:
-Accuracy
-Precision
-Recall
-F1 Score
+    Plotly
+    Matplotlib
+    Seaborn
+    Confusion matrix visualization
+    Performance metrics:
+    Accuracy
+    Precision
+    Recall
+    F1 Score
+
 🌐 Web Application (Streamlit)
 🎯 Clean UI with pastel theme
 📂 Upload and analyze datasets
 ⚡ Real-time predictions
 📊 Model comparison interface
+
 🛠️ Tech Stack
 💻 Core Technologies
-Python 🐍
-Streamlit 🌐
+      Python 🐍
+      Streamlit 🌐
 📊 Data & ML Libraries
-NumPy
-Pandas
-Scikit-learn
-SciPy
+      NumPy
+      Pandas
+      Scikit-learn
+      SciPy
 🤖 Deep Learning
-TensorFlow / Keras
+      TensorFlow 
 📉 Visualization
-Plotly
-Matplotlib
-Seaborn
+      Plotly
+      Matplotlib
+      Seaborn
+
 📂 Project Structure
 AuraSense-main/
 │
@@ -69,9 +73,10 @@ AuraSense-main/
 ├── utils/                  # Data processing modules
 │   ├── preprocessing.py
 │   └── feature_engineering.py
+
 ⚙️ Installation & Setup
 # Clone the repository
-git clone https://github.com/your-username/aurasense.git
+git clone https://github.com/archie0626/aurasense.git
 
 # Navigate into project
 cd AuraSense-main
@@ -92,13 +97,11 @@ http://localhost:8501
 🤖 Run predictions using ML/DL models
 📊 Visualize results and performance
 📊 Model Performance (Example)
-Model	Accuracy	Precision	Recall	F1 Score
-Random Forest	High	High	High	High
-SVM	Moderate	Good	Good	Good
-Logistic Regression	Moderate	Moderate	Moderate	Moderate
-CNN / LSTM	Very High	Very High	Very High	Very High
-
-(Replace with your actual results if available)
+        Model	          Accuracy	      Precision        Recall         F1 Score
+        Random Forest	    High	          High	          High	          High
+        SVM	            Moderate	        Good	          Good	          Good
+        Logistic Regression	Moderate	   Moderate	      Moderate	      Moderate
+        CNN / LSTM	    Very High	       Very High	    Very High	      Very High
 
 🎯 Use Cases
 🏃 Fitness & activity tracking
@@ -106,12 +109,14 @@ CNN / LSTM	Very High	Very High	Very High	Very High
 🧓 Elderly fall detection
 📱 Smart wearable applications
 🧠 Behavioral analytics
+
 🔮 Future Enhancements
 📡 Real-time sensor integration (IoT devices)
 🤖 AI-based activity prediction improvements
 ☁️ Cloud deployment (AWS / GCP)
 📱 Mobile app integration
 📊 Advanced analytics dashboard
+
 🤝 Contributing
 
 Contributions are welcome!
